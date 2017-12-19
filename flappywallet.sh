@@ -10,7 +10,7 @@ sudo apt-get install libdb4.8++-dev;
 sudo apt-get install libboost1.37-dev;
 sudo apt-get install libminiupnpc-dev;
 #build wallet:
-git clone https://github.com/FlappycoinDEV/flappycoin.git &&
+git clone https://github.com/Flapmin/Flaps.git &&
 cd flappycoin/src &&
 #if error: fatal error: db_cxx.h: No such file or directory compilation terminated:
 #$  sudo apt-get remove libdb4.8 libdb4.8-dev libdb4.8++-dev
